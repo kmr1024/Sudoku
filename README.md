@@ -1,7 +1,4 @@
 # Sudoku
-Simple Sudoku game and Solver
+Simple Sudoku game and Solver based on Python programming
 ### Modules required
-\dot customtkinter\n
-numpy\n
-tkinter\n
-numpy\n
+customtkinter, numpy, tkinter,numpy
