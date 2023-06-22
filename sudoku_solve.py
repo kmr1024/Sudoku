@@ -137,14 +137,4 @@ button_1 = customtk.CTkButton(app, command=lambda: read(),text="Solve")
 #button_1.grid(row=0, column=0, pady=10, padx=10)
 button_1.pack(side="bottom",pady=20, padx=10)
 
-'''
-button_1 = customtk.CTkButton(master=frame_1, command=lambda: click(),text="Truth")
-#button_1.grid(row=0, column=0, pady=10, padx=10)
-button_1.pack(side="right",pady=10, padx=10)
-'''
-'''
-button_2 = customtk.CTkButton(app, command=lambda: click(itemsD,A),text="Dare")
-#button_2.grid(row=0, column=1, pady=10, padx=10)
-button_2.pack(side="left",pady=10, padx=10)
-'''
 app.mainloop()
