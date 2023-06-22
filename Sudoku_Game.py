@@ -165,7 +165,7 @@ label_frame=ctk.CTkFrame(master=frame_2)
 label_frame.configure(border_width=0)
 label_frame.pack(fill="both", expand=True)
 
-label_1 = ctk.CTkLabel(text="Chose the Difficulty",master=label_frame, justify=ctk.LEFT,  font=ctk.CTkFont(size=12, weight="normal"))
+label_1 = ctk.CTkLabel(text="Choose the Difficulty",master=label_frame, justify=ctk.LEFT,  font=ctk.CTkFont(size=12, weight="normal"))
 label_1.pack(pady=1, padx=.1, anchor=tk.CENTER)
 
 
