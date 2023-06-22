@@ -2,7 +2,7 @@ import customtkinter as ctk
 import numpy as np
 import winsound
 import tkinter as tk
-import numpy as np
+
 
 ctk.set_appearance_mode("Light")  # Modes: "System" (standard), "Dark", "Light"
 ctk.set_default_color_theme("green")  # Themes: "blue" (standard), "green", "dark-blue"
